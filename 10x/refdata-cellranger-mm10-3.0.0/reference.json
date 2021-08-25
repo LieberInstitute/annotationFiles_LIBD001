@@ -1,0 +1,17 @@
+{
+    "fasta_hash": "f6dc70d9cba60a64d7d30d6746de6faad9c4a679", 
+    "genomes": [
+        "mm10"
+    ], 
+    "gtf_hash": "404ed981d2b5ae7c95aca40483fb6fadf5353434", 
+    "input_fasta_files": [
+        "Mus_musculus.GRCm38.dna.primary_assembly.fa"
+    ], 
+    "input_gtf_files": [
+        "Mus_musculus.GRCm38.93.gtf.filtered"
+    ], 
+    "mem_gb": 16, 
+    "mkref_version": "", 
+    "threads": 2, 
+    "version": "3.0.0"
+}

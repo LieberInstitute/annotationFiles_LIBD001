@@ -1,0 +1,20 @@
+{
+    "fasta_hash": "f75d628d1c210942ee7d889de53deeab14808d93", 
+    "genomes": [
+        "GRCh38", 
+        "mm10"
+    ], 
+    "gtf_hash": "a6bc981ff67866ab5bacd52209f026265173baf8", 
+    "input_fasta_files": [
+        "Homo_sapiens.GRCh38.dna.primary_assembly.fa.modified", 
+        "Mus_musculus.GRCm38.dna.primary_assembly.fa.modified"
+    ], 
+    "input_gtf_files": [
+        "gencode.v32.primary_assembly.annotation.gtf.filtered", 
+        "gencode.vM23.primary_assembly.annotation.gtf.filtered"
+    ], 
+    "mem_gb": 16, 
+    "mkref_version": "4.0.0", 
+    "threads": 2, 
+    "version": "2020-A"
+}
